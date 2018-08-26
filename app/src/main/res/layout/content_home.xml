@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:id="@+id/home_layout"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activity.HomeActivity"
+    tools:showIn="@layout/activity_home">
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_madruga"
+        android:src="@drawable/icn_madruga"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/btn_chaves"
+        android:contentDescription="@string/madruga_ruim_ter_que_trabalhar" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_chaves"
+        android:src="@drawable/icn_chaves"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_barriga"
+        android:src="@drawable/icn_barriga"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/ad_view"
+        android:layout_alignEnd="@+id/ad_view" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_chiquinha"
+        android:src="@drawable/icn_chiquinha"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_below="@+id/btn_nhonho"
+        android:layout_alignLeft="@+id/btn_nhonho"
+        android:layout_alignStart="@+id/btn_nhonho" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_kiko"
+        android:src="@drawable/icn_kiko"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_below="@+id/btn_madruga"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_nhonho"
+        android:src="@drawable/icn_nhonho"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignTop="@+id/btn_kiko"
+        android:layout_alignLeft="@+id/btn_chaves"
+        android:layout_alignStart="@+id/btn_chaves" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_florinda"
+        android:src="@drawable/icn_florinda"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignTop="@+id/btn_nhonho"
+        android:layout_alignLeft="@+id/btn_barriga"
+        android:layout_alignStart="@+id/btn_barriga" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_clotildes"
+        android:src="@drawable/icn_clotildes"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_below="@+id/btn_florinda"
+        android:layout_alignRight="@+id/btn_florinda"
+        android:layout_alignEnd="@+id/btn_florinda" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_girafales"
+        android:src="@drawable/icn_girafales"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_below="@+id/btn_kiko"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_godinez"
+        android:src="@drawable/icn_godinez"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_below="@+id/btn_chiquinha"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_popis"
+        android:src="@drawable/icn_popis"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignTop="@+id/btn_godinez"
+        android:layout_alignLeft="@+id/btn_chiquinha"
+        android:layout_alignStart="@+id/btn_chiquinha" />
+
+    <ImageButton
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_especial"
+        android:src="@drawable/icn_especial"
+        android:contentDescription="@string/chaves_mas_nao_se_irrite"
+        android:layout_alignTop="@+id/btn_popis"
+        android:layout_alignLeft="@+id/btn_clotildes"
+        android:layout_alignStart="@+id/btn_clotildes" />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ad_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>

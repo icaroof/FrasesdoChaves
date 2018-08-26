@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">Chaves de bolso</string>
+    <string name="action_settings">Opções</string>
+    <string name="compartilhar_via">Compartilhar via</string>
+    <string name="title_activity_lista_frases">Todas as Frases</string>
+    <string name="title_activity_player_frase"></string>
+    <string name="nao_encontrado">Arquivo não encontrado</string>
+
+    <string name="facebook_app_id">1657219907876737</string>
+    <!-- This is an ad unit ID for a test ad. Replace with your own banner ad unit id. -->
+    <string name="banner_ad_unit_id">ca-app-pub-7619203900429789/8859908555</string>
+
+    <string name="assinatura_barriga">Barriga, Seu</string>
+    <string name="assinatura_chaves">Chaves</string>
+    <string name="assinatura_chiquinha">Chiquinha</string>
+    <string name="assinatura_clotildes">Clotilde, Dona</string>
+    <string name="assinatura_florinda">Florinda, Dona</string>
+    <string name="assinatura_girafales">Girafales, Professor</string>
+    <string name="assinatura_kiko">Kiko</string>
+    <string name="assinatura_madruga">Madruga, Seu</string>
+    <string name="assinatura_nhonho">Nhonho</string>
+    <string name="assinatura_popis">Popis</string>
+    <string name="assinatura_godinez">Godinez</string>
+    <string name="assinatura_especial"></string>
+
+    <!-- Frases do seu barriga -->
+    <string name="barriga_pague_aluguel">Pague o aluguel</string>
+
+    <!-- Frases do chaves -->
+    <string name="chaves_mas_nao_se_irrite">Tá bom mas não se irrite</string>
+    <string name="chaves_melhor_ver_pele">Teria sido melhor ir ver o pelé</string>
+    <string name="chaves_da_zero">Ai, que burro! Dá zero pra ele</string>
+    <string name="chaves_gato_um_olho">Vi um gato com um olho só.\n\n-Por que?\n\n-Porque tapei o outro</string>
+    <string name="chaves_outro_gato">-Quem está aí?\n\n-Outro Gato</string>
+    <string name="chaves_amar_inimigos">Porque as pessoas boas devem amar seus inimigos</string>
+    <string name="chaves_bebercio">-Estou apenas vendendo refrescos.\n\n-Pois esse é o comércio.\n\n-Não, é um bebércio</string>
+    <string name="chaves_isso_isso_isso">Isso, isso, isso, isso, isso...</string>
+    <string name="chaves_ja_chegou_disco_voador">Já chegou o disco voador</string>
+    <string name="chaves_me_escapuliu">Me escapuliu</string>
+    <string name="chaves_morrer_perder_vida">Eu prefiro morrer do que perder a vida</string>
+    <string name="chaves_nao_tem_biscoito">Não tem biscoito!</string>
+    <string name="chaves_paciencia_comigo">Ninguém tem paciência comigo</string>
+    <string name="chaves_quanto_custa">-E quanto custa?\n\n-Bom, tem de 50 cruzeiros, de vintão. Depende da cara do freguês</string>
+    <string name="chaves_refrescos">A que parece de limão é de groselha e tem gosto de tamarindo.\nA que parece de groselha é de tamarindo com sabor de limão.\nE a que parece de tamarindo é de limão com sabor de groselha.</string>
+    <string name="chaves_sem_querer_querendo">Foi sem querer querendo</string>
+
+    <!-- Frases do kiko -->
+    <string name="kiko_nao_vai_cara">Você não vai com a minha cara?!</string>
+    <string name="kiko_gentalha">Gentalha! Gentalha!</string>
+    <string name="kiko_mamae">Mamãããããããeee!</string>
+    <string name="kiko_cale_se">Aaaii! Cale-se, cale-se, cale-se! Você me deixa lou... coo!</string>
+    <string name="kiko_nao_seja_mau_sim">Deixa eu ajudar a lavar o carro do seu Barriga. Anda diz que sim não seja mau, nem que seja só um pouquinho. Deixa vá, anda. Não seja mau, siiimmm?</string>
+    <string name="kiko_gato_aniversario">-O professor Girafales te deu um gato de mascote?\n\n-Não! Me deu de aniversário.</string>
+
+    <!-- Frases do nhonho -->
+    <string name="nhonho_nao_almocei_festa">Inclusive eu não almocei hoje pra arrasar com a festa</string>
+    <string name="nhonho_olha_ele">Olha ele! Olha ele!</string>
+
+    <!-- Frases da chiquinha -->
+    <string name="chiquinha_choro">Ueee ueee ueee ueee ueee</string>
+    <string name="chiquinha_jeca_valente">E então vem o jinete em seu cavalo as 3 da madrugada quando ladravam os cães e deram uma apunhalada e arrancaram a apunhalada e...</string>
+    <string name="chiquinha_consciencia_limpa">-Chiquinha, você tem a consciência limpa?\n\n-Bom! Não uma coisa que se diga "Minha nossa como é limpa a consciência da Chiquinha"</string>
+    <string name="chiquinha_papaizinho_lindo">Papaizinho lindo, meu amor! Que coisa mais bonita de velhinho!</string>
+    <string name="chiquinha_pois_e">Pois é, pois é, pois é, pois é...</string>
+    <string name="chiquinha_subir_cadeira">-Será que não sabe o que é preciso para poder rir na frente da minha cara?\n\n-Subir numa cadeira</string>
+    <string name="chiquinha_tem_de_burro">O que você tem de burro, você tem de burro</string>
+
+    <!-- Frases da dona clotilde -->
+    <string name="clotilde_ai_minha_nossa">Ai, minha nossa!</string>
+    <string name="clotilde_eh_vc_satanas">Quem está aí? É você, Satanás?</string>
+    <string name="clotilde_quem_eh_bruxa">-Quem é a bruxa do 71?\n\n-Eu!</string>
+    <string name="clotilde_porque_bruxa">-Por que você diz a todo mundo que eu sou uma bruxa?\n\n-Porque a senhora nunca me pediu que guardasse segredo</string>
+    <string name="clotilde_venha_satanas">Satanás?! Venha cá, Satanás!</string>
+
+    <!-- Frases especiais -->
+    <string name="especial_dona_massacote">-Professor Girafales!\n\n-Dona Massacote!\n\n-Que milagre o senhor por aqui.\n\n-Vim só perguntar quais os animais que comem com o rabo</string>
+    <string name="especial_bruxa_madruga_moca_bonita">-Moça bonita! Moça bem feita! Moça formsa!\n\n-Ai seu Madruga! O senhor me encabula!</string>
+    <string name="especial_tatata_quem_eh">-Quem é?\n\n-Quem é o que?\n\n-Ouvi alguém bater na porta ta ta ta ta....\n\n-Fui eu, só que foi com a boca.\n\n-E não é mais fácil bater na porta com a mão?</string>
+    <string name="especial_bruxa_madruga_conto_bruxas">-Ai, seu Madruga, isto me parece estar sonhando! Ai, nos acharmos nós dois no paraíso que é este clube. Ai, para mim é um conto de fadas.\n\n-Pois pra mim é um conto de bruxas</string>
+    <string name="especial_dor_coracao">-O que se deve fazer quando uma pessoa sente uma dor no coração?\n\n-Apagar a luz.\n\n-Apagar a luz? Por que?\n\n-Porque o que os olhos não vêem o coração não sente</string>
+    <string name="especial_linda">-Bom dia, professor!\n\n-Bom dia, linda.\n\n-Disse que eu sou linda?\n\n-Ah, eu não vi que era você, Chiquinha</string>
+    <string name="especial_refresco_abacaxi">-Abacaxi não tem!\n\n-Ora, nao se irrite! Credo! Me dá o de abacaxi e pronto!</string>
+
+    <!-- Frases do professor girafales -->
+    <string name="girafales_tatatatatatata">Ta ta ta ta ta ta ta!</string>
+    <string name="girafales_causa_motivo_razao_circunstancia">Posso saber por que causa, motivo, razão ou circunstância?</string>
+    <string name="girafales_come_com_rabo">Qual o animal que come com o rabo? Todos! Por que? Porque não podem tirar o rabo pra comer</string>
+
+    <!-- Frases do godinez -->
+    <string name="godinez_nao_fui_eu">-Vou lhe fazer uma pergunta.\n\n-Pra mim por que se eu não fiz nada?</string>
+    <string name="godinez_pista">-Diga-me apenas quanto são 2 + 2.\n\n-Não pode me dar uma pista?</string>
+    <string name="godinez_assobio" />
+    <string name="godinez_colares_perolas">-Com que se fabricam os colares de PÉROLAS?\n\n-Com as pérolas!</string>
+    <string name="godinez_confirmando">-Nem assim você conseguiu terminar, Godinez?\n\n-Não. Eu já acabei, professor.\n\n-Então por que continua jogando a moeda para o ar?\n\n Porque estou confirmando as respostas</string>
+    <string name="godinez_verdadeiro_falso">-Se pode saber o que o senhor está fazendo?\n\n-É que quando cai cara, escrevo verdadeiro. E quando cai coroa, escrevo falso</string>
+
+    <!-- Frases da popis -->
+    <string name="popis_cabral_compositor">Isso mesmo! Lembrem-se bem. Foi Cabral, o cantor!</string>
+    <string name="popis_quantos_centimetros_metro">-Quantos centímetros cabem em um metro?\n\n-29!\n\n-29 centimetros cabem em um metro?\n\n-Sim, professor. E até sobra espaço!</string>
+    <string name="popis_conta_tudo_mae">Conta tudo pra sua mãe, Kiko!</string>
+
+    <!-- Frases do seu madruga -->
+    <string name="madruga_ruim_ter_que_trabalhar">Não tem trabalho ruim, senhora! O ruim é ter que trabalhar</string>
+    <string name="madruga_chapeus_sapatos">Chapéus, sapatos ou roupa usada. Quem tem?</string>
+    <string name="madruga_chaves_de_novo">Tinha que ser o Chaves de novo!</string>
+    <string name="madruga_higienicos_churros">Higiênicos churros da dona Florinda! Ai, que droga</string>
+    <string name="madruga_nao_te_dou_outra">Só não te dou outra porque</string>
+    <string name="madruga_olha_churros">Churros, churros, olha o churros! Bem docinhos. Olha o churros, churrinhos! Churros douradinhos!</string>
+    <string name="madruga_que_foi_que_ha">Que que foi? Que que foi? Que que há?</string>
+    <string name="madruga_velha_ridicula">Velha ridícula!</string>
+    <string name="madruga_vinganca_nunca_plena">A vingança nunca é plena. Mata a alma e a envenena</string>
+
+    <!-- Frases dona florinda -->
+    <string name="florinda_estou_falando">Estou falando com a mula. Não com seus carrapatos</string>
+    <string name="florinda_gentalha">Vamos, tesouro. Não se misture com essa gentalha</string>
+    <string name="florinda_proxima_vez">E da próxima vez vá jogar terra no túmulo da sua avó</string>
+</resources>
